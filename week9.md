@@ -49,5 +49,5 @@ https://suno.com/song/cc125c0c-5e8f-46d8-b06b-551925ad7d49?sh=LpwHdw22ccRgPrEZ
 https://suno.com/song/5c91c6f0-37a8-43b4-b57b-a4fc118fde00?sh=Pmsmdz39oXQFZSK5
 ## 實驗三chatgpt幫助寫歌詞
 https://suno.com/song/ae038b45-78f8-4074-9df2-f2d9e45cbba7?sh=qTHVLiXMHBmMGEod
-## 其他風格(描述:用日文創作一首溫馨背景音樂,風格為爵士,適合小型聚會
-https://suno.com/song/0a88afd9-6841-4d35-83ab-4a29fad5eaa8?sh=9yN0OAjyCoMOCsqb
+## 其他風格(描述:用日文創作一首溫馨歌曲,風格為抒情,適合小型聚會, piano, soft and emotional voice
+(https://suno.com/song/ebffe6a5-3b5e-4da2-8fac-7ad052afa4a4?sh=lxXXsdZuEO7eyOM0)
