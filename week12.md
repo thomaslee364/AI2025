@@ -149,35 +149,29 @@ ChatGPT 說：
 以下是根據您提供的內容設計的六段式短影音文案生成 Prompt，中英對照如下：
 
 🎬 六段式連續故事 Prompt（英中對照）
-1. Scene 1: “The Daily Chaos”
-A clumsy but kind-hearted young man rushes through his morning—spills coffee, wears mismatched socks, misses his bus. Funny mishaps one after another.
-場景一：「日常災難連環爆」
-一位笨手笨腳但心地善良的年輕人，忙亂地開始早晨：灑了咖啡、襪子穿錯、錯過公車，一連串爆笑失誤接踵而來。
+🎬 Scene 1: “The Daily Chaos”
+EN: A clumsy but kind-hearted young man rushes through his chaotic morning: spills coffee, forgets his wallet, nearly brushes his teeth with hand cream. A chain of funny mishaps unfolds.
+中： 一位笨手笨腳但心地善良的年輕人，忙亂地展開早晨：打翻咖啡、忘了帶錢包、差點用護手霜刷牙，一連串爆笑災難接連發生。
 
-2. Scene 2: “The Unexpected Encounter”
-He accidentally bumps into an elderly lady while hurrying. Her groceries scatter, and he nervously helps her.
-場景二：「意外邂逅」
-他在匆忙中撞上一位老奶奶，對方的雜貨掉滿地，他慌張地幫忙撿起。
+🎬 Scene 2: “The Unexpected Encounter”
+EN: While rushing down the street, he crashes into an elderly lady. Her groceries scatter everywhere. Flustered, he kneels to help her pick them up.
+中： 匆忙走在街上時，他撞上一位老奶奶。對方的雜貨灑滿地上，他手忙腳亂地蹲下幫忙撿起。
 
-3. Scene 3: “The Quiet Connection”
-As they sit on a park bench, she thanks him and shares a small snack. They start to chat, finding surprising common ground—both feel lonely.
-場景三：「靜靜的連結」
-他們坐在公園長椅上，老奶奶感謝他並分一點點心給他。他們開始聊天，意外地發現彼此都有孤單的心情。
+🎬 Scene 3: “The Quiet Connection”
+EN: They sit together on a park bench. She shares a piece of her favorite peanut brittle. They start to talk, both revealing their loneliness. A quiet, warm connection forms.
+中： 他們一同坐在公園長椅上。老奶奶分了一塊她最愛的花生糖給他。他們開始聊天，彼此吐露寂寞的心情，一種安靜而溫暖的連結悄悄建立。
 
-4. Scene 4: “The Small Gesture”
-He offers to help her with shopping every weekend. Their bond grows—funny banter, light teasing, heartwarming moments.
-場景四：「小小的承諾」
-他主動提出每週末幫她採買。他們的關係逐漸加深，互動中充滿笑料、打鬧與溫馨。
+🎬 Scene 4: “The Small Gesture”
+EN: He offers to help her grocery shop every Saturday. Week by week, their bond grows—through playful teasing, shared snacks, and easy laughter.
+中： 他主動提出每週六幫她採買。隨著時間過去，他們的感情逐漸加深，互動中充滿打趣、分享小點心與輕鬆的笑聲。
 
-5. Scene 5: “The Turning Point”
-One day, he arrives late to find the bench empty. A note is left behind—she had to move to a care home.
-場景五：「情感的轉折」
-某天他遲到，發現長椅上空無一人，只留下一張紙條——她被送去療養院了。
+🎬 Scene 5: “The Turning Point”
+EN: One rainy afternoon, he arrives late to find the bench empty. A small note rests on the seat: she’s been moved to a care facility due to health issues.
+中： 一個下著小雨的午後，他遲到了，卻發現長椅上空無一人，只留下一張紙條：她因健康因素被送往療養院。
 
-6. Scene 6: “The Legacy of Laughter”
-He visits her with a surprise: matching socks and her favorite snack. The scene fades on their laughter, both teary-eyed.
-場景六：「笑中帶淚的延續」
-他帶著驚喜去探望她：一雙一樣的錯襪子和她最愛的小點心。畫面定格在兩人淚眼又笑容滿面的瞬間。
+🎬 Scene 6: “The Memory in the Candy”
+EN: He visits her at the care home, holding a handmade gift: a small jar filled with peanut brittle pieces. She recognizes it instantly, smiles with teary eyes, and they laugh together, the room filled with warmth.
+中： 他帶著一個手工禮物到療養院探望她——一個小玻璃罐，裡面裝滿她最愛的花生糖。她一眼認出，含淚微笑。兩人一起笑著，房間充滿溫馨的氣氛。
 
 📸 建議視覺元素（Visual Suggestions）：
 
@@ -208,50 +202,45 @@ ChatGPT 說：
 以下是將六段式故事內容轉換為口播字幕風格的文案，以自然口語、情緒帶動、節奏清晰為原則，適合搭配畫面作短影音播出。
 
 🎤 口播字幕版文案（適合短影音）
-【片頭｜輕快 BGM】
-每天早上都像打仗一樣對吧？
-這位年輕人今天又出包了——
-咖啡灑了、襪子穿反、連公車都錯過！
-（畫面快速剪輯他的失誤）
+🎬 Scene 1: 「日常災難連環爆」
+🎤 中文口播：
+每個人的早晨都有點混亂，但對阿哲來說，混亂早就是日常。今天，他灑了咖啡、忘了錢包，甚至差點用護手霜刷牙。嗯，普通的一天。
+🎤 English VO:
+Mornings can be messy, but for Ah-Zhe, chaos is just routine. Today? Spilled coffee, no wallet, and almost brushed his teeth with hand cream. Yep—just another “normal” day.
 
-【場景轉換｜撞見老奶奶】
-就在他趕路的時候，砰——
-他不小心撞上一位老奶奶，
-東西灑了一地，他一邊道歉一邊手忙腳亂地幫忙撿。
+🎬 Scene 2: 「意外邂逅」
+🎤 中文口播：
+在趕路的過程中，他撞上了一位老奶奶。雜貨灑了一地，花生糖滾得比他還快。他慌張地道歉，一邊蹲下幫忙。
+🎤 English VO:
+On his frantic dash, he bumped into an elderly lady. Groceries flew—peanut brittle rolling faster than him. Panicked, he muttered apologies while helping her gather it all.
 
-【公園長椅｜溫暖漸起】
-後來他們一起坐在公園的長椅上休息，
-老奶奶拿出點心分他一塊，
-他們就這樣聊起來了，
-原來啊……他們其實都有一點孤單。
+🎬 Scene 3: 「靜靜的連結」
+🎤 中文口播：
+兩人坐在公園的長椅上。她遞給他一小塊花生糖，他回以一個靦腆的笑。他們聊著聊著，竟然都說出了「有點孤單」這三個字。
+🎤 English VO:
+They sat on a park bench. She offered him a piece of peanut brittle, and he gave a shy smile. As they talked, both quietly admitted... they felt a little lonely.
 
-【固定見面｜歡樂日常】
-從那天開始，他每個週末都來幫她買菜，
-兩人嘴上互相虧來虧去，
-但眼神裡卻藏不住的溫暖。
-這段友情，比看起來重要多了。
+🎬 Scene 4: 「小小的承諾」
+🎤 中文口播：
+從那天起，他每週都來幫她採買。他們笑、他們鬧，就像隔了幾十年的老朋友。生活突然多了一點味道，還有一點甜。
+🎤 English VO:
+From that day on, he came by every weekend to help her shop. They laughed, teased each other—like old friends from different eras. Life gained a little flavor... and a little sweetness.
 
-【情感轉折｜情緒收斂】
-直到有一天……他來晚了，
-長椅上沒人，只剩下一張紙條。
-老奶奶搬去療養院了。
-他愣住了，空氣都安靜了下來。
+🎬 Scene 5: 「情感的轉折」
+🎤 中文口播：
+那天，他遲到了。長椅上什麼都沒有，只有一張紙條。她搬去療養院了。他靜靜地站在雨裡，讀著那短短幾行字。
+🎤 English VO:
+That day, he was late. The bench was empty—except for a note. She had moved to a care home. He stood quietly in the rain, reading those few simple words.
 
-【結尾｜淚中帶笑】
-幾天後，他帶著驚喜去探望她，
-穿著兩雙一模一樣的錯襪子，
-還帶著她最愛的小餅乾。
-他們笑著笑著……就紅了眼眶。
-有些人，只出現在你生命的一小段，
-卻留下了……最深的一筆。
-請將這段故事擬定一個吸引人的片名，
-要一個主標、一個副標，
-主標要有故事性、簡潔有力、簡短、明確，
-副標要圍繞主標的故事作提引
+🎬 Scene 6: 「笑中帶淚的延續」
+🎤 中文口播：
+幾天後，他提著一個小玻璃罐走進療養院，裡面裝著滿滿的花生糖。她一看到就笑了，眼角泛著光。兩人再次一起笑了，只是這次——眼淚也在笑裡。
+🎤 English VO:
+Days later, he walked into the care home holding a small glass jar—filled with peanut brittle. She saw it and smiled, eyes glistening. They laughed again… only this time, the tears joined too.
 
 
 🎬 主標（Title）：
-《錯襪子的約定》
+《花生糖的約定》
 
 📝 副標（Subtitle）：
 一場意外的邂逅，一段笑中帶淚的陪伴，他們用最簡單的方式，交換了彼此生命中最溫暖的時光。
